@@ -1,1 +1,1 @@
-Simple cv using HTML and CSS
+Simple CV using HTML.
